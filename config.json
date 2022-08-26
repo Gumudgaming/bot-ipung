@@ -1,0 +1,29 @@
+{
+"ownerNumber": ["6285746073507@s.whatsapp.net"],
+"ownerName": ["Ipung"],
+"botName": "Hinata-Md",
+"packname": "Hinata-Md",
+"author": "© Ipung Tamvan",
+"sessionName": "session",
+"pathimg": "./media/hinata.jpg",
+
+"medsos": {
+"youtube": "-",
+"instagram": "-"
+},
+
+"donasi": {
+"saweria": "-",
+"dana": "-",
+"AN_dana": "-",
+"gopay": "-",
+"AN_gopay": "-"
+},
+
+"gamewaktu": 90,
+"limitCount": 25,
+"gcount": {
+"prem": 35,
+"user": 15
+}
+}
